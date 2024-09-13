@@ -1,1 +1,1 @@
-# job-portals
+# job-portal
